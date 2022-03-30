@@ -13,6 +13,7 @@
 ### Contactame a tráves de:
 
 - email: amg.13.161@gmail.com 
+- [linkendIn](https://www.linkedin.com/in/alejandro-melchor-galv%C3%A1n-449211185)
  
  
  ### Tecnologias Favoritas
