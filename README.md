@@ -6,9 +6,12 @@
 
 ### Lo que actualmente hago es:
 
- - Desarrollador Frontend independiente que trabaja con JavaScript, TypeScript y Angular.
- - Doy clases de matemáticas, principalmente Cálculo diferencial e integral, geometría y álgebra. Generalmente  trabajo con estudiantes de licenciatura e ingeneria
- - Actualmente sigo aprendiendo React, python y nodeJS.
+ - **Desarrollador Frontend independiente** que trabaja con **JavaScript, TypeScript y Angular**. 
+   <p align="left"><img src="https://caseydemo.github.io/images/icons/JavascriptLogo.png" alt="javascript" width="60" height="60"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbErme3WHnTAJjqqKRVlsnc6gfSTHFS_AfRA&usqp=CAU" width="60" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="70" height="70"/>
+</p>
+
+ - Doy clases de matemáticas, principalmente **Cálculo diferencial e integral, geometría y álgebra**. Generalmente  trabajo con estudiantes de licenciatura e ingeneria
+ - Actualmente sigo aprendiendo **React, python y nodeJS**.
 
 ### Contactame a tráves de:
 
@@ -34,5 +37,6 @@
  - PrimeNg
  - Angular Material
  - R
- 
+
+
 
