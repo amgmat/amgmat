@@ -9,6 +9,10 @@
  - Desarrollador Frontend independiente que trabaja con JavaScript, TypeScript y Angular.
  - Doy clases de matemáticas, principalmente Cálculo diferencial e integral, geometría y álgebra. Generalmente  trabajo con estudiantes de licenciatura e ingeneria
  - Actualmente sigo aprendiendo React, python y nodeJS.
+
+### Contactame a tráves de:
+
+- email: amg.13.161@gmail.com 
  
  
  ### Tecnologias Favoritas
