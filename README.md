@@ -16,6 +16,8 @@
 
  - **Desarrollador independiente** que trabaja principalmente con **JavaScript, TypeScript y Angular**. 
    <p align="left"><img src="https://caseydemo.github.io/images/icons/JavascriptLogo.png" alt="javascript" width="60" height="60"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbErme3WHnTAJjqqKRVlsnc6gfSTHFS_AfRA&usqp=CAU" width="60" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="70" height="70"/>
+ <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="70" />
+ <img src="https://ngrx.io/assets/images/badge.svg" alt="rxjs" width="70" />
 </p>
 
  - Doy clases de matemáticas, principalmente **Cálculo diferencial e integral, geometría y álgebra**. Generalmente  trabajo con estudiantes de licenciatura e ingeneria
@@ -38,8 +40,8 @@
  #### Herramientos, lenguajes de programación  y otras cosas con las que me gusta trabajar
  <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7HwVz9h18DrB8OeLJ1oUyWw6JPIBqfxDUEiFi_804PEIQxzvfuW5p0eQ3inRMifes4s&usqp=CAU" width="100"/><img src="https://losmejorescursosde.com/wp-content/uploads/2021/02/css.png" width="140" height="100" alt=""/> <img src="https://javadesde0.com/wp-content/uploads/sass-1.jpg" width="110" alt=""/> <img src="https://caseydemo.github.io/images/icons/JavascriptLogo.png" alt="javascript" width="100"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbErme3WHnTAJjqqKRVlsnc6gfSTHFS_AfRA&usqp=CAU" width="100" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="110"/> <img src="https://miro.medium.com/max/600/0*0HbG3AauYcBjgBMi.png" width="110"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdAgARP5ZgppnGoP-g1Z0b4IfZ0FArSLhEGVlM6Y9jw1Jc-_4kJF-0YPaUeW7zjzBugQ&usqp=CAU" width="110" />
  <img src="https://miro.medium.com/max/554/1*42aKSdKAWZ3VtqT5ICd82w.png" width="100"/> <img src="https://t1.uc.ltmcdn.com/es/posts/2/2/8/como_instalar_mysql_en_windows_23822_orig.jpg" width="100"> <img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" width="110"/> <img src="https://img2.freepng.es/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" width="110"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuC3DQ4UHs-_eO7bmr9l23Hsq1m8fZwx0eOMARioFDee65HfwIY1cdxR8R7Pj7G-f8O9w&usqp=CAU" width="110"/><img src="https://srinivasmp.com/assets/images/angular-material-518x351.png" width="140"> <img src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/27926/preview_image/firebase_logo.png" width="120">
-  <img src="https://www.htmlgoodies.com/wp-content/uploads/2021/09/RxJS-tutorials-696x464.png" width="120">
- <img src="https://ngrx.io/assets/images/badge.svg" width="120">
+ <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="130" />
+ <img src="https://ngrx.io/assets/images/badge.svg" width="130">
  </p>
 
 
