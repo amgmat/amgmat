@@ -15,9 +15,7 @@
 ### Lo que actualmente hago es:
 
  - **Desarrollador independiente** que trabaja principalmente con **JavaScript, TypeScript y Angular**. 
-   <p align="left"><img src="https://caseydemo.github.io/images/icons/JavascriptLogo.png" alt="javascript" width="60" height="60"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbErme3WHnTAJjqqKRVlsnc6gfSTHFS_AfRA&usqp=CAU" width="60" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="70" height="70"/>
- <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="70" />
- <img src="https://ngrx.io/assets/images/badge.svg" alt="rxjs" width="70" />
+   <p align="left"><img src="https://caseydemo.github.io/images/icons/JavascriptLogo.png" alt="javascript" width="60" height="60"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbErme3WHnTAJjqqKRVlsnc6gfSTHFS_AfRA&usqp=CAU" width="60" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="70" height="70"/><img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="70" /><img src="https://ngrx.io/assets/images/badge.svg" alt="rxjs" width="70" />
 </p>
 
  - Doy clases de matemáticas, principalmente **Cálculo diferencial e integral, geometría y álgebra**. Generalmente  trabajo con estudiantes de licenciatura e ingeneria
